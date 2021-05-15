@@ -1,8 +1,8 @@
 # Hey There :wave:
 
 # :star: Welcome to my Profile :star:
-![visitors](https://visitor-badge.glitch.me/badge?page_id=$PATH08.$PATH08)
-[![Github](https://img.shields.io/github/followers/PATH08?label=Followers&style=social)](https://github.com/PATH08)
+   ![visitors](https://visitor-badge.glitch.me/badge?page_id=$PATH08.$PATH08)
+   [![Github](https://img.shields.io/github/followers/PATH08?label=Followers&style=social)](https://github.com/PATH08)
 # :boom: About Me
 ## Imma Beginner Dev
 
