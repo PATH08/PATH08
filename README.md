@@ -8,6 +8,11 @@
 # :boom: About Me :boom:
 ## I'm a beginner Developer who knows a bit of HTML , CSS and Javascript !! I'm learning  Python , Java and PHP 
 
+# :cake: Some of my Fav Repos :cake:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PATH08&repo=PATH08.github.io&theme=omni&show_owner=true)](https://github.com/PATH08/PATH08.github.io)
+
+
 
 # :fish_cake: My Github Stats :fish_cake:
 ![PATH08's GitHub stats](https://github-readme-stats.vercel.app/api?username=PATH08&theme=omni&show_icons=true)
