@@ -15,7 +15,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PATH08&repo=PATH08.github.io&theme=omni&show_owner=true)](https://github.com/PATH08/PATH08.github.io)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PATH08&repo=PATH08&theme=omni&show_owner=true)](https://github.com/PATH08/PATH08)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PATH08&repo=AyyOrange&theme=omni&show_owner=true)](https://github.com/PATH08/AyyOrange)
 
 
 
