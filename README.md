@@ -12,14 +12,18 @@
 
 # :cake: Some of my Kewl Repos :cake:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PATH08&repo=PATH08.github.io&theme=omni&show_owner=true)](https://github.com/PATH08/PATH08.github.io)    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PATH08&repo=AyyOrange&theme=omni&show_owner=true)](https://github.com/PATH08/AyyOrange)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PATH08&repo=PATH08.github.io&theme=omni&show_owner=true)](https://github.com/PATH08/PATH08.github.io)    
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PATH08&repo=AyyOrange&theme=omni&show_owner=true)](https://github.com/PATH08/AyyOrange)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PATH08&repo=sanitizer.ml&theme=omni&show_owner=true)](https://github.com/PATH08/sanitizer.ml)
 
 
 
 # :fish_cake: My Kewl Github Stats :fish_cake:
-![PATH08's GitHub stats](https://github-readme-stats.vercel.app/api?username=PATH08&theme=omni&show_icons=true)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PATH08&layout=compact&theme=omni)
+![PATH08's GitHub stats](https://github-readme-stats.vercel.app/api?username=PATH08&theme=omni&show_icons=true)   
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PATH08&layout=compact&theme=omni)
 
 
 # Thanks for Reading!! :D
