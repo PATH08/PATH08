@@ -26,13 +26,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PATH08&layout=compact&theme=omni)
 
-
-
-
-# Support Me
-
-Support Me by Buying me a Coffee
-
-<a href="https://www.buymeacoffee.com/path08"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=path08&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
-
 # Thanks for Reading!! :D
