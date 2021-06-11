@@ -25,5 +25,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PATH08&layout=compact&theme=omni)
 
+# (っ ͡❛ ͜ʖ ͡❛)っ My Socials
+
+![Discord_Profile](https://discord.c99.nl/widget/theme-4/560347189142880281.png)
+
 
 # Thanks for Reading!! :D
