@@ -27,7 +27,7 @@
 
 # (っ ͡❛ ͜ʖ ͡❛)っ My Socials
 
-![Discord_Profile](https://discord.c99.nl/widget/theme-4/560347189142880281.png)
+![Discord_Profile](https://discord.c99.nl/widget/theme-2/560347189142880281.png)
 
 
 # Thanks for Reading!! :D
