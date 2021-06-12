@@ -21,7 +21,8 @@
 
 
 # (っ＾▿＾） My Github Stats
-![PATH08's GitHub stats](https://github-readme-stats.vercel.app/api?username=PATH08&theme=omni&show_icons=true)   
+![PATH08's GitHub stats](https://github-readme-stats.vercel.app/api?username=PATH08&theme=omni&show_icons=true)
+[![PATH08's Github Streak](https://github-readme-streak-stats.herokuapp.com?user=PATH08&theme=omni)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PATH08&layout=compact&theme=omni)
 
