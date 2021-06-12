@@ -21,14 +21,15 @@
 
 
 # (っ＾▿＾） My Github Stats
-![PATH08's GitHub stats](https://github-readme-stats.vercel.app/api?username=PATH08&theme=omni&show_icons=true)
-[![PATH08's Github Streak](https://github-readme-streak-stats.herokuapp.com?user=PATH08&theme=omni)](https://git.io/streak-stats)
+[![PATH08's GitHub stats](https://github-readme-stats.vercel.app/api?username=PATH08&theme=omni&show_icons=true)](https://github.com/PATH08)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PATH08&layout=compact&theme=omni)
+[![PATH08's Github Streak](https://github-readme-streak-stats.herokuapp.com?user=PATH08&theme=omni)](https://github.com/PATH08)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PATH08&layout=compact&theme=omni)](https://github.com/PATH08)
 
 # (っ ͡❛ ͜ʖ ͡❛)っ My Socials
 
-![Discord_Profile](https://discord.c99.nl/widget/theme-2/560347189142880281.png)
+[![Discord_Profile](https://discord.c99.nl/widget/theme-2/560347189142880281.png)](https://discord.com/users/560347189142880281)
 
 
 # Thanks for Reading!! :D
