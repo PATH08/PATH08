@@ -21,6 +21,9 @@
 
 
 # (っ＾▿＾） My Github Stats
+
+[![TROPHIES](https://github-profile-trophy.vercel.app/?username=PATH08&theme=radical)](https://github.com/PATH08)
+
 [![PATH08's GitHub stats](https://github-readme-stats.vercel.app/api?username=PATH08&theme=omni&show_icons=true)](https://github.com/PATH08)
 
 [![PATH08's Github Streak](https://github-readme-streak-stats.herokuapp.com?user=PATH08&theme=omni)](https://github.com/PATH08)
