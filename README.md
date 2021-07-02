@@ -36,7 +36,7 @@
 
 # Support Me
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L14Y3FX)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/PATH08)
 
 
 # Thanks for Reading!! :D
