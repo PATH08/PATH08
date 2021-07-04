@@ -34,7 +34,7 @@
 
 [![Discord_Profile](https://discord.c99.nl/widget/theme-2/560347189142880281.png)](https://discord.com/users/560347189142880281)
 
-# Support Me
+# Support Me :)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/PATH08)
 
