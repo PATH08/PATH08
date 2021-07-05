@@ -1,6 +1,6 @@
 # Hey There Kewl Person (ɔ◔‿◔)ɔ ♥
 
-![visits](https://komarev.com/ghpvc/?username=PATH08&color=yellow&style=plastic-square) [![followers](https://img.shields.io/github/followers/PATH08?label=Followers&style=social)](https://github.com/PATH08?tab=followers)
+[![visits](https://komarev.com/ghpvc/?username=PATH08&color=yellow&style=plastic-square)](https://github.com/PATH08) [![followers](https://img.shields.io/github/followers/PATH08?label=Followers&style=social)](https://github.com/PATH08?tab=followers)
 
 # ٩(˘◡˘)۶🍾 Welcome to my Profile
 
