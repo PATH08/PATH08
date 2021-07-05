@@ -18,9 +18,18 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PATH08&repo=sanitizer.ml&theme=omni&show_owner=true)](https://github.com/PATH08/sanitizer.ml)
 
-### Languages and Tools:
+# Languages and Tools:
 
-[![css3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) ](https://www.w3schools.com/css/) [ ![git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) ](https://git-scm.com/) [ ![html5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) ](https://www.w3.org/html/) [ ![java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) ](https://www.java.com) [ ![javascript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) ](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [ ![linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg) ](https://www.linux.org/) [ ![mongodb](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg) ](https://www.mongodb.com/) [ ![nodejs](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg) ](https://nodejs.org) [ ![php](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg) ](https://www.php.net) [![python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org)
+[![css3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) ](https://www.w3schools.com/css/)
+[ ![git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) ](https://git-scm.com/)
+[ ![html5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) ](https://www.w3.org/html/)
+[ ![java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) ](https://www.java.com)
+[ ![javascript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) ](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+[ ![linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg) ](https://www.linux.org/)
+[ ![mongodb](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg) ](https://www.mongodb.com/)
+[ ![nodejs](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg) ](https://nodejs.org)
+[ ![php](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg) ](https://www.php.net)
+[![python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org)
 
 
 # (っ＾▿＾） My Github Stats
