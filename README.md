@@ -42,7 +42,10 @@
 
 My Bitcoin Address  : **bc1qk8r3efl4d3g68288r6alv9tlvqpchh3z4xvy74**
 
+My Ethereum Address :**0xC412BB3f2FA7D5532C846473f03114791a5cf25B**
+
 My Dogecoin Address : **DLdcxycDNQiD9Hp8sPCPZHJhoNmAntvgaw**
+
 
 
 # Thanks for Reading!! :D
