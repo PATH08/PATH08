@@ -40,11 +40,11 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/PATH08)
 
-My Bitcoin (BTC) Address  : **bc1qk8r3efl4d3g68288r6alv9tlvqpchh3z4xvy74**
+My *Bitcoin (BTC)* Address  : **bc1qk8r3efl4d3g68288r6alv9tlvqpchh3z4xvy74**
 
-My Ethereum (ETH) Address : **0xC412BB3f2FA7D5532C846473f03114791a5cf25B**
+My *Ethereum (ETH)* Address : **0xC412BB3f2FA7D5532C846473f03114791a5cf25B**
 
-My Dogecoin (DOGE) Address : **DLdcxycDNQiD9Hp8sPCPZHJhoNmAntvgaw**
+My *Dogecoin (DOGE)* Address : **DLdcxycDNQiD9Hp8sPCPZHJhoNmAntvgaw**
 
 
 
