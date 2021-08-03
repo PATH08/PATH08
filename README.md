@@ -8,7 +8,7 @@
 ## I'm a beginner Developer who knows a bit of HTML , CSS and Javascript !! I'm learning  Python , Java and PHP 
 
 # (✿ ͡❛ ͜ʖ ͡❛) My Likes
-## I like to code , talk with people on Discord , eat Tacos , the colour Yellow and to play Minecraft
+## I like to code , eat Tacos , the colour Yellow and to play Minecraft
 
 # (ˆ‿ˆԅ) Some of my Repos
 
