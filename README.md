@@ -35,7 +35,7 @@
 # (っ ͡❛ ͜ʖ ͡❛)っ My Socials
 
 [![Discord_Profile](https://discord.c99.nl/widget/theme-2/560347189142880281.png)](https://discord.com/users/560347189142880281)
-[!Instagram Profile](https://Instagram.com/pathasium)
+[![Instagram Profile](https://cdn-icons-png.flaticon.com/512/2111/2111463.png)](https://Instagram.com/pathasium)
 
 # Support Me :)
 
