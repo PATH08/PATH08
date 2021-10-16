@@ -37,6 +37,9 @@
 [![Discord_Profile](https://discord.c99.nl/widget/theme-2/560347189142880281.png)](https://discord.com/users/560347189142880281)
 
 
+<p align="left">
+<a href="https://instagram.com/__shiv_rajj__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="My Instagram" height="30" width="40" /></a></p>
+
 # Support Me :)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/PATH08)
